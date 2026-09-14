@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou o Elizeu 👋
 
-<!--
-**elizeuleandro2050/elizeuleandro2050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas focado em lógica de programação, estruturas de dados e desenvolvimento de software.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias e Ferramentas
+- **Linguagens:** C, Git, GitHub
+- **Prototipagem:** Figma
+- **Modelagem de Dados:** brModelo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Projetos em Destaque
+- **EcoTech:** Projeto focado na rastreabilidade e usabilidade de pontos de coleta de lixo eletrônico.
+- **Portfólio Pessoal:** Protótipo e estrutura de projetos acadêmicos e técnicos.
+
+---
+*Buscando constantemente evolução na área de tecnologia e desenvolvimento de sistemas.*
