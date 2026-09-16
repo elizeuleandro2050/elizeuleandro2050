@@ -3,9 +3,9 @@
 Estudante de Análise e Desenvolvimento de Sistemas focado em lógica de programação, estruturas de dados e desenvolvimento de software.
 
 ## 🚀 Tecnologias e Ferramentas
-- **Linguagens:** C, Git, GitHub
+- **Linguagens:** C, java, html, css.
 - **Prototipagem:** Figma
-- **Modelagem de Dados:** brModelo, SQLworkbench (basico).
+- **Modelagem de Dados:** brModelo, SQLworkbench.
 
 ## ⚙️ Projetos em Destaque
 - **EcoTech:** Projeto focado na rastreabilidade e usabilidade de pontos de coleta de lixo eletrônico.
